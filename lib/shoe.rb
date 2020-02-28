@@ -7,4 +7,3 @@ class Shoe
   end
   Shoe.cobble = new
  end
- end
