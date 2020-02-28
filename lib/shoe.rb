@@ -8,3 +8,4 @@ class Shoe
   if Shoe(cobble)
     Shoe.cobble = new
  end
+ end
